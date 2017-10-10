@@ -57,6 +57,16 @@ br			{
 	text-align: left;
 }
 
-p.post {
-	margin-left: 10px;
+.table {
+	overflow-x: auto;
+	position: relative;
+	top: 10px;
+}
+
+.bar	{
+	position: fixed;
+	top: 0px;
+	text-align: center;
+	display: inline-block;
+	margin: auto;
 }

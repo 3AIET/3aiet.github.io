@@ -7,33 +7,15 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
-		<link rel="stylesheet" media="all and (max-device-width: 1080px)" href="https://www.w3schools.com/w3css/4/w3mobile.css">
+		<link rel="stylesheet" href="style.css">
 		
-		<style>
-		
-		body, html 	{ height: 100%; min-height: 100% }
-		
-		body		{ font-family: "Arial", Helvetica, sans-serif; margin-top: 100px; background-color: #F1F2F3;}
-		table 		{ border: 2px solid black; border-collapse: collapse; text-align: center; vertical-align: center; background-color: white; margin: auto;}
-		td			{ border: 2px solid black; padding: 3px; }
-		th#giorni 	{ border: 3px solid black; min-height: 38px; background-color: #B6CFF6; font-size: 120%}
-		th#ore		{ border: 3px solid black; min-width: 25px; background-color: #B6CFF6; font-size:110%; }
-		br			{ line-height: 150%; }
-		
-		@media screen and (min-width: 400px) and (max-width: 1300px) { .content { max-width: 90%; } }
-		
-		.content 	{ max-width: 90%; height: 100%; margin: auto; background-color: red; overflow-x:auto;}
-		.post		{ margin: auto; max-width: 60%; background-color: yellow;}
-		
-		</style>
-	
 	</head>
 	
 	<body>
 	
-		<div class="content">
+		<div class="content w3-container">
 	
-		<table>
+		<div style="overflow-x: auto;"><table>
 	
 			<tr>
 			
@@ -43,7 +25,7 @@
 				
 				<th id="giorni"> Marted&igrave </th>
 				
-				<th id="giorni" style="min-width: 110px;"> Mercoled&igrave </th>
+				<th id="giorni"> Mercoled&igrave </th>
 				
 				<th id="giorni"> Gioved&igrave </th>
 				
@@ -149,12 +131,21 @@
 			
 			</tr>
 			
-		</table>
+		</table> </div>
 		
-			<div class="post">	
+		<div class="w3-card post">	
+		
+			<header class="w3-container w3-red">
 				<h4>Compiti per Martedì 10 Ottobre 2017</h3>
+			</header>
+			
+			<div class="w3-container w3-white">
 				<p> <b>Italiano</b>: svolgere ricerca su Giotto.</p>
 			</div>
+			
+			<footer class="w3-container w3-red" 
+			
+		</div>
 		
 		</div>
 		

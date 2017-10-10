@@ -46,6 +46,7 @@ br			{
 	background-color: white;
 	text-align: center;
 	vertical-align: center;
+	z-index: 1;
 }
 .post		{
 	position: relative;
@@ -69,4 +70,5 @@ br			{
 	text-align: center;
 	display: inline-block;
 	margin: auto;
+	z-index: 2;
 }

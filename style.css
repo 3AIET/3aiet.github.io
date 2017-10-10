@@ -39,8 +39,8 @@ br			{
 .content 	{
 	padding-bottom: 50px;
 	position: absolute;
-	right: 30%;
-	left: 30%;
+	right: 5%;
+	left: 5%;
 	top: 10px;
 	min-height: 100%; 
 	background-color: white;
@@ -50,9 +50,9 @@ br			{
 .post		{
 	position: relative;
 	top: 30px;
-	left: 20%;
-	right: 20%;
-	max-width: 60%;
+	left: 5%;
+	right: 5%;
+	max-width: 90%;
 	border: 1px solid black;
 	text-align: left;
 }
@@ -63,3 +63,7 @@ br			{
 	top: 10px;
 }
 
+@media only screen and (min-width: 768px){
+	.content { right: 30%; left: 30%;}
+	.post	 { left: 20%; right: 20%; max-width: 60%;}
+}

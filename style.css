@@ -18,14 +18,14 @@ td			{
 	padding: 3.5px;
 }
 
-th#giorni 	{
+th.giorni 	{
 	border: 3px solid black;
 	min-height: 38px;
 	background-color: #B6CFF6;
 	font-size: 120%
 }
 
-th#ore		{
+th.ore		{
 	border: 3px solid black;
 	min-width: 25px;
 	background-color: #B6CFF6;
@@ -37,21 +37,19 @@ br			{
 }
 		
 .content 	{
-	padding-bottom: 50px;
-	position: absolute;
-	right: 5%;
-	left: 5%;
-	top: 10px;
+	padding-bottom: 30px;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 5%;
 	min-height: 100%; 
 	background-color: white;
 	text-align: center;
 	vertical-align: center;
 }
 .post		{
-	position: relative;
-	top: 30px;
-	left: 5%;
-	right: 5%;
+	margin-top: 30px;
+	margin-left: 5%;
+	margin-right: 5%;
 	max-width: 90%;
 	border: 1px solid black;
 	text-align: left;
@@ -59,11 +57,11 @@ br			{
 
 .table 		{
 	overflow-x: auto;
-	position: relative;
 	top: 10px;
 }
 
 @media only screen and (min-width: 768px){
-	.content { right: 30%; left: 30%;}
-	.post	 { left: 20%; right: 20%; max-width: 60%;}
+	.content { margin-right: 30%; margin-left: 30%;}
+	.post	 { margin-left: 10%; margin-right: 10%; max-width: 80%;}
 }
+

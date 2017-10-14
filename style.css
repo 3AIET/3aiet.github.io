@@ -16,6 +16,11 @@ table 		{
 td			{
 	border: 2px solid black;
 	padding: 3.5px;
+	background-color: moccasin;
+}
+
+td.lab		{
+	background-color: deepskyblue;
 }
 
 th.giorni 	{

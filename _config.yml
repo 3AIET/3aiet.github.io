@@ -18,7 +18,7 @@ email: pival801@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   3A Informatica compiti
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://3aiet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  3AIET
 
 # Build settings

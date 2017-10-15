@@ -7,4 +7,4 @@ comments: true
 ---
 
 **Inglese**: esercizi pagina 5 n° 4-6.
-Imparare le forme dei verbi da bite a buy a pagina 181.
+Imparare le forme dei verbi da *bite* a *buy* a pagina 181.

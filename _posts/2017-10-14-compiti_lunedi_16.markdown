@@ -8,7 +8,7 @@ comments: true
 
 **Matematica**: esercizi pagina 144 n° 26-30-36-48-51.
 
-**Inglese**: studiare i verbi da blow a come a pagina 181; esercizi a pagina 10 n° 3-5.
+**Inglese**: studiare i verbi da *blow* a *come* a pagina 181; esercizi a pagina 10 n° 3-5.
 
 **Italiano**: fare commento e rispondere alla domanda sul quaderno riguardo al brano "Pir meu cori ralligrari" a pagina 113.
 

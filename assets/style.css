@@ -26,7 +26,7 @@ td.lab		{
 th.giorni 	{
 	border: 3px solid black;
 	min-height: 38px;
-	min-width: 50px;
+	min-width: 80px;
 	background-color: #f44336;
 	font-size: 120%
 }

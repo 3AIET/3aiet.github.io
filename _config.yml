@@ -21,8 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://3aiet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  3AIET
 
-paginate: 5
-paginate_path: "/:num/"
+paginate: 4
+paginate_path: "/page/:num/"
 
 # Build settings
 markdown: kramdown

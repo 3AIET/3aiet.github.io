@@ -21,12 +21,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://3aiet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  3AIET
 
+paginate: 5
+paginate_path: "/:num/"
+
 # Build settings
 markdown: kramdown
 # theme: p81
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate
 
   
 # Exclude from processing.
@@ -40,7 +43,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-
-paginate: 5
-paginate_path: "/:num/"

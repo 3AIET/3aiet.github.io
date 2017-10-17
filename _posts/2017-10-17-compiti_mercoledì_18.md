@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compiti Mercoledì 18 Ottobre 2017
+title: Compiti per Mercoledì 18 Ottobre 2017
 date:   2017-10-17 16:47:00 +0200
 categories: compiti
 comments: true

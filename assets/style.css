@@ -1,9 +1,16 @@
 html, body		{
 	font-family: "Arial", Helvetica, sans-serif;
 	background-color: #F1F2F3;
-	min-height: 100%;
 }
-	
+
+#navbar		{
+	position: fixed;
+	top: 0px;
+	left: 0%;
+	right: 0%;
+	z-index: 2;
+}
+
 table 		{ 
 	border: 2px solid black;
 	border-collapse: collapse;
@@ -42,11 +49,11 @@ br			{
 	line-height: 150%;
 }
 		
-.content 	{
+#content 	{
 	padding-bottom: 30px;
 	margin-right: 5%;
 	margin-left: 5%;
-	margin-top: 5%;
+	margin-top: 10%;
 	min-height: 100%; 
 	background-color: white;
 	text-align: center;
@@ -65,11 +72,11 @@ br			{
 
 .table 		{
 	overflow-x: auto;
-	top: 10px;
+	margin-top: 20px;
 }
 
 @media only screen and (min-width: 768px){
-	.content { margin-right: 30%; margin-left: 30%;}
+	#content { margin-right: 30%; margin-left: 30%; margin-top: 5%;}
 	.post	 { margin-left: 10%; margin-right: 10%; max-width: 80%;}
 }
 

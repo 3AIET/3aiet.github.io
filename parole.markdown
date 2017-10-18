@@ -5,7 +5,7 @@ permalink: parole.html
 ---
 
 <style type="text/css">
-  ul li { text-align: left; } ul { display: inline-block; }
+  ul li { text-align: left; } ul { display: inline-block; } table { display: none; }
 </style>
 
 * Virgulto

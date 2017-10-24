@@ -1,14 +1,8 @@
-<!doctype>
-<html lang="it">
-
-	<head>
-
-		<title> Esercizio mappe sensibili Valerio Pizzi </title>
-		<meta charset="utf-8" />
-
-	</head>
-
-	<body>
+---
+layout: default
+title: Esercizio mappe sensibili Valerio Pizzi
+permalink: map.html
+---
 
 		<img src="{{ '/assets/image.png' | relative_url }}" usemap="#pc">
 		<map name="pc">
@@ -35,7 +29,3 @@
 
 
 		</map>
-
-	</body>
-
-</html>

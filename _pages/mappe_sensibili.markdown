@@ -7,7 +7,7 @@ layout: default
 <img src="{{ '/assets/image.png' | relative_url }}" usemap="#pc">
 <map name="pc">
 
-	<!-- Monitor --> <area href="https://en.wikipedia.org/wiki/Monitor" shape="poly" coords="11,50,96,55,96,117,52,117,54,127,168,127,170,157,64,156,64,140,26,139,20,128,33,126,34,123,6,121,8,51">
+	<!-- Monitor --> <area href="https://en.wikipedia.org/wiki/Computer_monitor" shape="poly" coords="11,50,96,55,96,117,52,117,54,127,168,127,170,157,64,156,64,140,26,139,20,128,33,126,34,123,6,121,8,51">
 
 	<!-- Mouse --> <area href="https://en.wikipedia.org/wiki/Computer_mouse" shape="poly" coords="124,119,229,119,229,91,167,91,170,88,175,86,182,82,190,77,194,71,195,63,190,57,182,50,171,50,159,52,152,57,139,68,134,74,133,80,135,86,137,89,133,91,124,91">
 

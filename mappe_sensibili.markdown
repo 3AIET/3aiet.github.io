@@ -1,7 +1,7 @@
 ---
 title: Esercizio mappe sensibili Valerio Pizzi
 permalink: map.html
-layout: default
+layout: page
 ---
 
 <img src="{{ '/assets/image.png' | relative_url }}" usemap="#pc">

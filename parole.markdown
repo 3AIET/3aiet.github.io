@@ -1,7 +1,7 @@
 ---
 title: Parole
 permalink: parole.html
-layout: default
+layout: page
 ---
 
 <style type="text/css">

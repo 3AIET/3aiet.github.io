@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compiti per Mercoledì 25 Ottobre 2017
-date:   2017-10-24 08:40:00 +0200
+date:   2017-10-24 08:41:00 +0200
 categories: compiti
 comments: true
 --- 

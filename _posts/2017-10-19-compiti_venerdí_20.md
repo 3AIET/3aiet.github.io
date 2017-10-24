@@ -1,11 +1,10 @@
 ---
-title: Compiti per Venerdì 20 Ottobre 2017
-date: 2017-10-19 13:49:00 Z
-categories:
-- compiti
 layout: post
+title: Compiti per Venerdì 20 Ottobre 2017
+date:   2017-10-19 15:49:00 +0200
+categories: compiti
 comments: true
----
+--- 
 
 **Matematica**: pagina 146 n° 71-74-76-77-79.
 

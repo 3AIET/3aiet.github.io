@@ -1,9 +1,8 @@
 ---
-title: Compiti per Lunedì 16 Ottobre 2017
-date: 2017-10-14 08:10:00 Z
-categories:
-- compiti
 layout: post
+title:  "Compiti per Lunedì 16 Ottobre 2017"
+date:   2017-10-14 10:10:00 +0200
+categories: compiti
 comments: true
 ---
 

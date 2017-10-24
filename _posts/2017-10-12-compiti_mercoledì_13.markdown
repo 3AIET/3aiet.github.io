@@ -1,8 +1,9 @@
 ---
+title: Compiti per Venerdì 13 Ottobre 2017
+date: 2017-10-12 08:10:00 Z
+categories:
+- compiti
 layout: post
-title:  "Compiti per Venerdì 13 Ottobre 2017"
-date:   2017-10-12 10:10:00 +0200
-categories: compiti
 comments: true
 ---
 

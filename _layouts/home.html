@@ -2,7 +2,9 @@
 layout: default
 ---
 
-  {{ content }}
+{{ content }}
+
+{% include table.html %}
 
 {% for post in site.posts %}
   <div class="w3-card post">  

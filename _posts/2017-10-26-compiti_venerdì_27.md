@@ -5,6 +5,8 @@ date:   2017-10-26 15:26:00 +0200
 categories: compiti
 comments: true
 --- 
- **Italiano**: ripetere per interrogazione e svolgere il commento assegnato + domande.
- **Matematica**: pagina 149 dal 108 al 119.
- **Telecomunicazioni**: svolgere i due esercizi assegnati sul quaderno. 
+**Italiano**: ripetere per interrogazione e svolgere il commento assegnato + domande.
+
+**Matematica**: pagina 149 dal 108 al 119.
+
+**Telecomunicazioni**: svolgere i due esercizi assegnati sul quaderno. 

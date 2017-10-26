@@ -9,4 +9,4 @@ comments: true
 
 **Matematica**: pagina 149 dal 108 al 119.
 
-**Telecomunicazioni**: svolgere i due esercizi assegnati sul quaderno. 
+**Telecomunicazioni**: svolgere i due esercizi assegnati sul quaderno.

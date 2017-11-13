@@ -25,3 +25,10 @@ layout: page
 * Transetto
 * Registro Inferiore
 * Filologia
+* Carisma
+* Forbito
+* Gotta
+* Illustre
+* Protrarre
+* Scorreria
+* Trascendere

@@ -13,6 +13,9 @@ comments: true
 (Il linguaggio assembly)
 Studiare da 103 a 109, 112 e 114
 1)Scrivere ip codice ascii del carattere P in un registro a scelta
+
 2)Copiare il valore dal registro precedente in un registro a scelta
+
 3)Scrivere il numero 710 in un registro a scelta
+
 4)Copiare il valore dal registro precedente in un registro a scelta.

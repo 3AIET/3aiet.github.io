@@ -8,4 +8,4 @@ comments: true
 
 **Matematica**: pagina 161 n° 274-282-299-316-320-328.
 
-**Matematica**: pagina 134 n° 16.
+**Informatica**: pagina 134 n° 16.

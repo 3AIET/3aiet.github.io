@@ -8,4 +8,4 @@ comments: true
 
 **Matematica**: pagina 161 n° 274-282-299-316-320-328.
 
-**Informatica**: pagina 134 n° 16.
+**Inglese**: ripetere gli esercizi per l'ultima volta, badando a riscrivere le frasi intere sul quaderno invece di scrivere solo le parole giuste.
